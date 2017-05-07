@@ -1,0 +1,9 @@
+{
+	"name": "terminfo-d",
+	"authors": [
+		"Anton Fediushin"
+	],
+	"description": "Terminal capability data base reader",
+	"copyright": "Copyright © 2017, Anton Fediushin",
+	"license": "MIT"
+}
